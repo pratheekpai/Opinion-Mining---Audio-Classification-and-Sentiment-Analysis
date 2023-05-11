@@ -1,4 +1,4 @@
-# Opinion-Mining-Audio-Classification-and-Sentiment-Analysis
+# Opinion-Mining-Audio-Classification-and-Sentiment-Analysis (GUI CALLED MOODZILLA)
 Check out the colab notebook.
 1. Why waveplots aren't used to understand audio and its features.
 2. What is special about spectrograms and why are they used for classfication of audio data.
